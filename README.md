@@ -1,4 +1,5 @@
 # 🎬 Movie Recommendation System
+# coding is remaining 
 
 A content-based movie recommendation system built with Python and Streamlit that suggests similar movies based on user selection using cosine similarity.
 
